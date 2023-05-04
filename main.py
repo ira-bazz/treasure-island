@@ -49,3 +49,5 @@ if choice1 == "left":
         print("You got attacked by an angry trout. Game over")
 else:
     print("You fell into the hole. Game over.")
+
+# проект для практики
